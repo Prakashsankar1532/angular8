@@ -1,0 +1,23 @@
+Collection page 
+
+Filter
+accordian
+sort by
+pagination
+quick view
+
+	
+product page 
+
+with tax and without tax (compare price)
+badge on product ( sale,new )
+image innerzoom
+preorder & sold out
+color swatches
+size guide popup
+accordian (split) & read more
+product image slider ( vertical slider )
+recently viewed
+related product
+review
+wishlist
